@@ -1,4 +1,9 @@
 ### Howdy!
+- 🔭 I’m currently working on the repository called analogs, which is a portfolio of pictures I have been taking over the years with my analog cameras
+
+- 📫 How to reach me? Just drop an email to manu.benitez1@hotmail.com
+
+- 🌱 I’m currently learning smart contracts
 
 <!--
 **manuelbenitez/manuelbenitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
