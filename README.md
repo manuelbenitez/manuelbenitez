@@ -9,7 +9,7 @@
 
 - https://rustyrobot.io/ (Web re-Design and Store integration)
 - 
-- https://tanglelabs.io/ (Developed MVP for Tixit - Images below) 
+- https://tanglelabs.io/ (Developed MVP for Tixit) 
 - 
 - https://www.horst-rainer.com/ (Web Design)
 - 
