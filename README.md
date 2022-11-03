@@ -7,7 +7,7 @@
 
 - My previous work (From new to old)
 
-- https://rustyrobot.io/ (Web re-Design and Store integration)
+- https://rustyrobot.io/ (Web re-Design and Shopify integration)
 - 
 - https://tanglelabs.io/ (Developed MVP for Tixit) 
 - 
