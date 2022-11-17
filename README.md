@@ -2,7 +2,7 @@
 - 🔭 I’m currently working with https://rustyrobots.io as a Freelance Front-End Developer and on my personal project which is the repository called bishop, where I am still developing the UI library, and later I am going to start integrating a store using stripe and a button to connect your wallet to be able to pay in fiat and crypto, a home page and a user panel
 - 
 - 
-- https://www.analogs.digital is a website will pictures I have been taking over the years with my analog cameras
+- https://www.analogs.digital is a website with pictures I have been taking all over the world with my analog cameras
 - 
 - 📫 How to reach me? Just drop an email to manu.benitez1@hotmail.com
 
