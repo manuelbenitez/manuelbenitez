@@ -1,12 +1,11 @@
 ### Howdy!
-- 🔭 I’m currently working with https://fortyeight.one/ as a Middleweight Developer and on my personal project which is the repository called bishop, where I am still developing the UI library, and later I am going to start integrating a store using stripe and a button to connect your wallet to be able to pay in fiat and crypto, a home page and a user panel
-- 
+- 🔭 I’m currently working with https://fortyeight.one/ as a Freelance Developer and on my personal project which is the repository called bishop, where I am still developing the UI library, and later I am going to start integrating a store using stripe and a button to connect your wallet to be able to pay in fiat and crypto, a home page and a user panel
+
+- https://adventuregolf.com/ (Web development using React and Strapi for the backend)
 - 
 - https://www.analogs.digital is a website with pictures I have been taking all over the world with my analog cameras
 - 
 - 📫 How to reach me? Just drop an email to manu.benitez1@hotmail.com
-
-- 🌱 I’m currently learning smart contracts
 
 - My previous work (From new to old)
 
