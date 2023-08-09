@@ -1,5 +1,5 @@
 ### Howdy!
-- 🔭 I’m currently working with https://www.develhope.co/ as a Tutor
+- 🔭 I’m currently working with https://www.develhope.co/ as a Tutor and developing a multi-chain NFT marketplace as a personal project for Ethereum, Polygon, BSC and Shimmer.
 
 
 - 
