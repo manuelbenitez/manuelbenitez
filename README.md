@@ -41,8 +41,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manuelbenitez&theme=dracula&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelbenitez&layout=compact)](https://github.com/manuelbenitez/github-readme-stats)
+-->
+
