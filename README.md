@@ -1,28 +1,13 @@
 ### Howdy!
-- 🔭 I’m currently working with https://www.develhope.co/ as a Tutor and developing a multi-chain NFT marketplace as a personal project for Ethereum, Polygon, BSC and Shimmer.
 
-
-- 
-- https://www.analogs.digital is a website with pictures I have been taking all over the world with my analog cameras
-- 
 - 📫 How to reach me? Just drop an email to manu.benitez1@hotmail.com
 
 - My previous work (From new to old)
- 
-- https://adventuregolf.com/ (Web development using React and Strapi for the backend) 
-- 
-- https://rustyrobot.io/ (Web re-Design and Shopify integration)
-- 
-- https://tanglelabs.io/ (Developed MVP for Tixit) 
-- 
-- https://www.horst-rainer.com/ (Web Design)
-- 
+- https://coda.to/
+- https://adventuregolf.com/
+- https://rustyrobot.io/
+- https://tanglelabs.io/
 - https://www.almajuri.com/ (I helped develop the game in the AppStore and Google Play)
-- 
-- https://www.rise.systems/ (Web Design)
-- 
-- https://www.conceptorise.com/ (Web Design)
-- 
 
 <!--
 **manuelbenitez/manuelbenitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
